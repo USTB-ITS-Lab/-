@@ -1,4 +1,4 @@
-$\color{#FF3030}{Time：*2020-10-13*}$
+**Time：*2020-10-13***
 
 # Alphapose Summary
 ## 1.Paper
